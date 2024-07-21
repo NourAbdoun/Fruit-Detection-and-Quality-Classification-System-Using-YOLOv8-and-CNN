@@ -13,3 +13,6 @@ YOLOv8
 TensorFlow/Keras
 NumPy
 OpenCV
+
+# YoloCNN.ipynb
+Load and Test the 2 models
